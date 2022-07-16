@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saagarct
 - 👀 I’m interested in learning new things on daily basis.
-- 🌱 I’m currently learning python programming language.
-- 💞️ I’m looking to collaborate on projects related to django-framework, ML and/or AI.
+- 💞️ I’m looking to collaborate on projects related to python-backend, django-framework, ML and/or AI.
 - 📫 How to reach me ... mail me @ saagar.thakuri@gmail.com
 
 <!---
